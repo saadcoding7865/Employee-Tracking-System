@@ -6,9 +6,13 @@ PROJECT FEATURES
 
 Admin Panel:
 Add multiple employees
+
 Add multiple customers
+
 Assign tasks with task title, allocated employee, customer and scheduled date
+
 View all tasks in a structured table
+
 View live employee location updates
 
 Employee Panel:
