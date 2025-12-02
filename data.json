@@ -1,0 +1,9 @@
+{
+  "next_emp_id": 1,
+  "next_cust_id": 1,
+  "next_task_id": 1,
+  "employees": {},
+  "customers": {},
+  "tasks": {},
+  "live_locations": {}
+}
